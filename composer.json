@@ -1,0 +1,34 @@
+{
+  "name": "digimix/wp-svg-upload",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "description": "Adds full SVG media support to WordPress.",
+  "homepage": "https://roots.io/plugins/soil/",
+  "authors": [
+    {
+      "name": "Michael Salafia",
+      "email": "michael@digimix.co",
+      "homepage": "https://digimix.co"
+    },
+    {
+      "name": "Christine Cardoso",
+      "email": "christine@digimix.co",
+      "homepage": "https://digimix.co"
+    }
+  ],
+  "keywords": [
+    "wordpress"
+  ],
+  "support": {
+    "issues": "https://github.com/digimix/wp-svg-upload/issues"
+  },
+  "require": {
+    "php": ">=5.4.0",
+    "composer/installers": "~1.0"
+  },
+  "scripts": {
+    "test": [
+      "vendor/bin/phpcs --extensions=php --ignore=vendor/ -n -s ."
+    ]
+  }
+}

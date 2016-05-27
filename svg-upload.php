@@ -2,7 +2,7 @@
 /*
 Plugin Name: SVG Upload
 Plugin URI: https://digimix.co/
-Description: Adds Full SVG Media support to WordPress.
+Description: Adds full SVG media support to WordPress.
 Author: Digimix
 Version: 1.0.0
 Author URI: https://digimix.co/
