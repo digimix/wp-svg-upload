@@ -1,0 +1,6 @@
+{
+  "name": "wp-svg-upload",
+  "tagline": "Adds full SVG media support to WordPress.",
+  "body": "### Upload SVGs to WordPress Media Library\r\nThis plugin will enable your WordPress media library to support SVG files. Install using composer or add it to your plugins directory. Once the plugin is enabled, you're good to go! WordPress will support SVGs. \r\n\r\n\r\n***\r\n\r\n\r\n### Authors and Contributors\r\nThanks to the [WordPress Developer](https://digimix.co) Team at Digimix for maintaining this super handy plugin!\r\n\r\n### Support or Contact\r\nHaving trouble with WP SVG Upload? [Open an Issue](https://github.com/digimix/wp-svg-upload/issues) and we’ll help you sort it out.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
