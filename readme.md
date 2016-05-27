@@ -1,3 +1,14 @@
+## Installation Instructions
+Install with Composer
+`composer require digimix/wp-svg-upload`
+
+Install manually
+1. Clone or copy the files into your WordPress plugins directory
+2. Activate the plugin from the dashboard or using WP CLI
+
+Once the plugin is activated, you're good to go. Your WordPress media library will support uploading SVG files. 
+
+
 ##Logic Breakdown
  * 1) We need the whole page, but only if we are in the backend (hence admin_init hook)
  * 2) We would like to grab all output (ob_start within admin_init as nothing should echo before that, we should not interfere with things that do)
