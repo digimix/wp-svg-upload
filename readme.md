@@ -1,5 +1,4 @@
-
- ## Logic Breakdown
+##Logic Breakdown
  * 1) We need the whole page, but only if we are in the backend (hence admin_init hook)
  * 2) We would like to grab all output (ob_start within admin_init as nothing should echo before that, we should not interfere with things that do)
  * 3) We want to grab the content on shutdown, concatenate all output buffers, then filter
