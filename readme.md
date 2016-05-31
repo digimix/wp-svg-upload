@@ -30,4 +30,4 @@ Once the plugin is activated, you're good to go. Your WordPress media library wi
  
  ## Credits
  * Originally forked from https://gist.github.com/digimix/01a2e5b38596ea83369a, https://gist.github.com/Lewiscowles1986/44f059876ec205dd4d27
- * Maintained by Digimix 
+ * Maintained by the [WordPress Developer](https://digimix.co) Team at Digimix Studios 
